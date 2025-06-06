@@ -25,7 +25,13 @@ Include the specific theme in your html file.
 <link rel="stylesheet" href="css/specific-theme.css" id="nebula">
 ```
 
-Now use those css variables for styling.
+You can also include classes to deal with web components or react like frameworks
+
+```html
+<link rel="stylesheet" href="css/nebula.css">
+```
+
+Now use those css variables or classes for styling.
 
 See `script.js` to see example of keybindings, cycle themes, change theme and random theme select.
 

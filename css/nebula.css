@@ -1,0 +1,152 @@
+/* color-classes */
+.fg_0 { color: var(--base00) }
+.fg_1 { color: var(--base01) }
+.fg_2 { color: var(--base02) }
+.fg_3 { color: var(--base03) }
+.fg_4 { color: var(--base04) }
+.fg_5 { color: var(--base05) }
+.fg_6 { color: var(--base06) }
+.fg_7 { color: var(--base07) }
+.fg_8 { color: var(--base08) }
+.fg_A { color: var(--base0A) }
+.fg_B { color: var(--base0B) }
+.fg_C { color: var(--base0C) }
+.fg_D { color: var(--base0D) }
+.fg_E { color: var(--base0E) }
+.fg_F { color: var(--base0F) }
+
+/* color-active-classes */
+.fg_0_hover:hover { color: var(--base00) }
+.fg_1_hover:hover { color: var(--base01) }
+.fg_2_hover:hover { color: var(--base02) }
+.fg_3_hover:hover { color: var(--base03) }
+.fg_4_hover:hover { color: var(--base04) }
+.fg_5_hover:hover { color: var(--base05) }
+.fg_6_hover:hover { color: var(--base06) }
+.fg_7_hover:hover { color: var(--base07) }
+.fg_8_hover:hover { color: var(--base08) }
+.fg_A_hover:hover { color: var(--base0A) }
+.fg_B_hover:hover { color: var(--base0B) }
+.fg_C_hover:hover { color: var(--base0C) }
+.fg_D_hover:hover { color: var(--base0D) }
+.fg_E_hover:hover { color: var(--base0E) }
+.fg_F_hover:hover { color: var(--base0F) }
+
+/* color-active-classes */
+.fg_0_active:active { color: var(--base00) }
+.fg_1_active:active { color: var(--base01) }
+.fg_2_active:active { color: var(--base02) }
+.fg_3_active:active { color: var(--base03) }
+.fg_4_active:active { color: var(--base04) }
+.fg_5_active:active { color: var(--base05) }
+.fg_6_active:active { color: var(--base06) }
+.fg_7_active:active { color: var(--base07) }
+.fg_8_active:active { color: var(--base08) }
+.fg_A_active:active { color: var(--base0A) }
+.fg_B_active:active { color: var(--base0B) }
+.fg_C_active:active { color: var(--base0C) }
+.fg_D_active:active { color: var(--base0D) }
+.fg_E_active:active { color: var(--base0E) }
+.fg_F_active:active { color: var(--base0F) }
+
+/* background-classes */
+.bg_0 { background-color: var(--base00) }
+.bg_1 { background-color: var(--base01) }
+.bg_2 { background-color: var(--base02) }
+.bg_3 { background-color: var(--base03) }
+.bg_4 { background-color: var(--base04) }
+.bg_5 { background-color: var(--base05) }
+.bg_6 { background-color: var(--base06) }
+.bg_7 { background-color: var(--base07) }
+.bg_8 { background-color: var(--base08) }
+.bg_A { background-color: var(--base0A) }
+.bg_B { background-color: var(--base0B) }
+.bg_C { background-color: var(--base0C) }
+.bg_D { background-color: var(--base0D) }
+.bg_E { background-color: var(--base0E) }
+.bg_F { background-color: var(--base0F) }
+
+/* bg-hover-classes */
+.bg_0_hover:hover { background-color: var(--base00) }
+.bg_1_hover:hover { background-color: var(--base01) }
+.bg_2_hover:hover { background-color: var(--base02) }
+.bg_3_hover:hover { background-color: var(--base03) }
+.bg_4_hover:hover { background-color: var(--base04) }
+.bg_5_hover:hover { background-color: var(--base05) }
+.bg_6_hover:hover { background-color: var(--base06) }
+.bg_7_hover:hover { background-color: var(--base07) }
+.bg_8_hover:hover { background-color: var(--base08) }
+.bg_A_hover:hover { background-color: var(--base0A) }
+.bg_B_hover:hover { background-color: var(--base0B) }
+.bg_C_hover:hover { background-color: var(--base0C) }
+.bg_D_hover:hover { background-color: var(--base0D) }
+.bg_E_hover:hover { background-color: var(--base0E) }
+.bg_F_hover:hover { background-color: var(--base0F) }
+
+/* border-classes */
+.bd_0 { border-color: var(--base00) }
+.bd_1 { border-color: var(--base01) }
+.bd_2 { border-color: var(--base02) }
+.bd_3 { border-color: var(--base03) }
+.bd_4 { border-color: var(--base04) }
+.bd_5 { border-color: var(--base05) }
+.bd_6 { border-color: var(--base06) }
+.bd_7 { border-color: var(--base07) }
+.bd_8 { border-color: var(--base08) }
+.bd_A { border-color: var(--base0A) }
+.bd_B { border-color: var(--base0B) }
+.bd_C { border-color: var(--base0C) }
+.bd_D { border-color: var(--base0D) }
+.bd_E { border-color: var(--base0E) }
+.bd_F { border-color: var(--base0F) }
+
+/* border-hover-classes */
+.bd_0_hover:hover { border-color: var(--base00) }
+.bd_1_hover:hover { border-color: var(--base01) }
+.bd_2_hover:hover { border-color: var(--base02) }
+.bd_3_hover:hover { border-color: var(--base03) }
+.bd_4_hover:hover { border-color: var(--base04) }
+.bd_5_hover:hover { border-color: var(--base05) }
+.bd_6_hover:hover { border-color: var(--base06) }
+.bd_7_hover:hover { border-color: var(--base07) }
+.bd_8_hover:hover { border-color: var(--base08) }
+.bd_A_hover:hover { border-color: var(--base0A) }
+.bd_B_hover:hover { border-color: var(--base0B) }
+.bd_C_hover:hover { border-color: var(--base0C) }
+.bd_D_hover:hover { border-color: var(--base0D) }
+.bd_E_hover:hover { border-color: var(--base0E) }
+.bd_F_hover:hover { border-color: var(--base0F) }
+
+/* border-active-classes */
+.bd_0_active:active { border-color: var(--base00) }
+.bd_1_active:active { border-color: var(--base01) }
+.bd_2_active:active { border-color: var(--base02) }
+.bd_3_active:active { border-color: var(--base03) }
+.bd_4_active:active { border-color: var(--base04) }
+.bd_5_active:active { border-color: var(--base05) }
+.bd_6_active:active { border-color: var(--base06) }
+.bd_7_active:active { border-color: var(--base07) }
+.bd_8_active:active { border-color: var(--base08) }
+.bd_A_active:active { border-color: var(--base0A) }
+.bd_B_active:active { border-color: var(--base0B) }
+.bd_C_active:active { border-color: var(--base0C) }
+.bd_D_active:active { border-color: var(--base0D) }
+.bd_E_active:active { border-color: var(--base0E) }
+.bd_F_active:active { border-color: var(--base0F) }
+
+/* outline-colors */
+.bd_0 { border-color: var(--base00) }
+.bd_1 { border-color: var(--base01) }
+.bd_2 { border-color: var(--base02) }
+.bd_3 { border-color: var(--base03) }
+.bd_4 { border-color: var(--base04) }
+.bd_5 { border-color: var(--base05) }
+.bd_6 { border-color: var(--base06) }
+.bd_7 { border-color: var(--base07) }
+.bd_8 { border-color: var(--base08) }
+.bd_A { border-color: var(--base0A) }
+.bd_B { border-color: var(--base0B) }
+.bd_C { border-color: var(--base0C) }
+.bd_D { border-color: var(--base0D) }
+.bd_E { border-color: var(--base0E) }
+.bd_F { border-color: var(--base0F) }
